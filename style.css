@@ -1,0 +1,33 @@
+body 
+{
+          text-align: center
+}
+
+.Awesome
+{
+          border-radius: 250;
+          height: 300px;
+          width: 300px;
+}
+
+
+
+
+
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
